@@ -1,0 +1,8 @@
+python-binance
+sqlalchemy
+pymysql
+pandas
+numpy
+textblob
+nltk
+python-dotenv
