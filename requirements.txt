@@ -1,8 +1,10 @@
 python-binance
-sqlalchemy
-pymysql
+pymssql
 pandas
 numpy
+vaderSentiment
 textblob
-nltk
+requests
 python-dotenv
+APScheduler
+pyyaml
