@@ -15,5 +15,5 @@ Real-time cryptocurrency price and sentiment analysis system.
 ## Setup
 1. `pip install -r requirements.txt`
 2. Get API keys from [Binance](https://binance.com) and [NewsAPI](https://newsapi.org)
-3. Fill `.env`
+3. Create `.env` Where API keys are stored for Binance and NewsAPI , along with DataBase Server name and Database name
 4. Run `python main.py`
